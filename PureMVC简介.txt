@@ -1,0 +1,4 @@
+puremvc-csharp-multicore-framework
+该PureMVC框架支持多线程,一般用于服务器
+puremvc-csharp-standard-framework-master
+一般用于客户端
